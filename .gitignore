@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+models/*.pkl
+docs/figures/
+.DS_Store
+
